@@ -3,5 +3,5 @@
 use_frameworks!
 
 target 'PublicPods' do
-# pod '',
+	pod 'SwifterSwift'
 end
